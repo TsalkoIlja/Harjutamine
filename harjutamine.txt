@@ -1,0 +1,3 @@
+GitHub on veebiplatvorm versioonikontrolliks ja koostööl põhinevaks tarkvaraarenduseks.
+See põhineb Giti versioonikontrollisüsteemil ja seda kasutavad arendajad koodi salvestamiseks, muudatuste jälgimiseks ja projektide koostööks.
+GitHubi kasutavad programmeerijad, ettevõtted, õpilased ja avatud lähtekoodiga kogukonnad üle maailma.
