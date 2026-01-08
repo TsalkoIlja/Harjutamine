@@ -3,3 +3,6 @@ See põhineb Giti versioonikontrollisüsteemil ja seda kasutavad arendajad koodi
 GitHubi kasutavad programmeerijad, ettevõtted, õpilased ja avatud lähtekoodiga kogukonnad üle maailma.
 Tulevikus võin GitHubi kasutada oma kursuseprojektide salvestamiseks, klassikaaslastega koostöö tegemiseks ja tööandjatele portfoolio loomiseks.
 GitHub on kasulik ka avatud lähtekoodiga projektidesse panustamiseks.
+GitHubi asutasid 2008. aastal Tom Preston-Werner, Chris Wanstrath ja PJ Hyett.
+GitHub on kasutajatele saadaval olnud alates 2008. aastast.
+2018. aastal omandas Microsoft GitHub Inc.
